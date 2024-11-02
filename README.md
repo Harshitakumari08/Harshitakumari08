@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harshita Jaiswal.
+- 👋 Hi, I’m Harshita Kumari.
 - 👀 I’m interested in Python, C and Web development.
 - 🌱 I’m currently learning DSA, JAVA, SQL.
 - 💞️ I’m looking to collaborate on AIML.
