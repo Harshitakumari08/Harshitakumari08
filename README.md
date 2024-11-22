@@ -17,7 +17,7 @@ I’m currently diving deep into **Data Structures and Algorithms (DSA)**, which
 I’m excited to collaborate on projects in **Artificial Intelligence and Machine Learning (AIML)**. I believe in teamwork and the power of shared knowledge to solve complex problems. Whether it’s building predictive models, automating processes, or exploring innovative AIML applications, I’m eager to contribute and learn from others in the tech community.  
 
 ### 📫 How to Reach Me  
-I’m always open to connecting with like-minded individuals. You can reach me at **[your-email@gmail.com](mailto:your-email@gmail.com)** for discussions, collaborations, or just to say hello!  
+I’m always open to connecting with like-minded individuals. You can reach me at harshitakumari589@gmail.com for discussions, collaborations, or just to say hello!  
 
 ### 😄 Fun Fact  
 I’m here because of an unwavering curiosity and love for technology. What started as a simple fascination with coding has turned into a lifelong passion to learn, grow, and innovate.  
