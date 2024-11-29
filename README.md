@@ -1,7 +1,3 @@
-Here’s an expanded version of your GitHub profile description, approximately 500 words:  
-
----
-
 ### Hi there! 👋  
 I’m **Harshita Kumari**, a passionate and curious tech enthusiast, constantly exploring the vast world of programming and development. With a keen interest in **Python, C**, and **Web Development**, I’m on a journey to transform ideas into impactful solutions through technology.  
 
@@ -31,7 +27,3 @@ I’m here because of an unwavering curiosity and love for technology. What star
 I strongly believe in the power of collaboration and the spirit of continuous learning. If you’re working on something exciting in Python, C, Web Development, or AIML, I’d love to hear about it and contribute!  
 
 Together, we can create innovative solutions, share knowledge, and inspire others in the tech community. Let’s connect and make the most of our shared passion for technology!  
-
----  
-
-
