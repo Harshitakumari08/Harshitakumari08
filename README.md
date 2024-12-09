@@ -1,5 +1,5 @@
 ### Hi there! 👋  
-I’m **Harshita Kumari**, a passionate and curious tech enthusiast, constantly exploring the vast world of programming and development. With a keen interest in **Python, C**, and **Web Development**, I’m on a journey to transform ideas into impactful solutions through   technology.  
+I’m **Harshita Kumari**, a passionate and curious tech enthusiast, constantly exploring the vast world of programming and development. With a keen interest in **Python, C**, **Java** and **Web Development**, I’m on a journey to transform ideas into impactful solutions through   technology.  
 
 ### 🌱 What I’m Learning  
 I’m currently diving deep into **Data Structures and Algorithms (DSA)**, which are the backbone of efficient coding. Alongside DSA, I’m expanding my expertise in **Java** and **SQL**, aiming to master backend technologies and improve my problem-solving skills. My learning journey is guided by the desire to build scalable, optimized, and user-friendly applications.  
