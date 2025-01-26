@@ -5,7 +5,7 @@ I’m **Harshita Kumari**, a passionate and curious tech enthusiast, constantly 
 I’m currently diving deep into **Data Structures and Algorithms (DSA)**, which are the backbone of efficient coding. Alongside DSA, I’m expanding my expertise in **Java** and **SQL**, aiming to master backend technologies and improve my problem-solving skills. My learning journey is guided by the desire to build scalable, optimized, and user-friendly applications.  
 
 ### 💻 My Interests  
-- **Programming Languages**: I love working with Python and C for their versatility and robust features.  
+- **Programming Languages**: I love working with Java and Python for their versatility and robust features.  
 - **Web Development**: From crafting interactive frontends to efficient backends, I enjoy creating seamless web experiences.  
 - **Artificial Intelligence & Machine Learning**: These fields fascinate me, and I’m always looking for opportunities to explore their real-world applications.  
 
