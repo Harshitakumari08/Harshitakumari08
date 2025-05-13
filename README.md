@@ -1,29 +1,21 @@
-### Hi there! 👋  
-I’m **Harshita Kumari**, a passionate and curious tech enthusiast, constantly exploring the vast world of programming and development. With a keen interest in **Python, C**, **Java** and **Web Development**, I’m on a journey to transform ideas into impactful solutions through   technology.  
+# 💫 About Me:
+About Me<br>Hi there! 👋 I’m Harshita Kumari, a passionate and curious tech enthusiast on a continuous journey of learning and innovation. I thrive on transforming ideas into impactful, real-world solutions using the power of technology.<br><br>With a strong foundation in Python, C, Java, and Web Development, I enjoy exploring all aspects of programming and software development. Currently, I’m deepening my knowledge in Data Structures and Algorithms (DSA) and enhancing my skills in Java and SQL—all with the goal of building scalable, optimized, and user-friendly applications.
 
-### 🌱 What I’m Learning  
-I’m currently diving deep into **Data Structures and Algorithms (DSA)**, which are the backbone of efficient coding. Alongside DSA, I’m expanding my expertise in **Java** and **SQL**, aiming to master backend technologies and improve my problem-solving skills. My learning journey is guided by the desire to build scalable, optimized, and user-friendly applications.  
 
-### 💻 My Interests  
-- **Programming Languages**: I love working with Java and Python for their versatility and robust features.  
-- **Web Development**: From crafting interactive frontends to efficient backends, I enjoy creating seamless web experiences.  
-- **Artificial Intelligence & Machine Learning**: These fields fascinate me, and I’m always looking for opportunities to explore their real-world applications.  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Harshitakumari08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Harshitakumari08&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitakumari08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 💞️ Collaboration Goals  
-I’m excited to collaborate on projects in **Artificial Intelligence and Machine Learning (AIML)**. I believe in teamwork and the power of shared knowledge to solve complex problems. Whether it’s building predictive models, automating processes, or exploring innovative AIML applications, I’m eager to contribute and learn from others in the tech community.  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Harshitakumari08&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 📫 How to Reach Me  
-I’m always open to connecting with like-minded individuals. You can reach me at harshitakumari589@gmail.com for discussions, collaborations, or just to say hello!  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😄 Fun Fact  
-I’m here because of an unwavering curiosity and love for technology. What started as a simple fascination with coding has turned into a lifelong passion to learn, grow, and innovate.  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Harshitakumari08&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ⚡ More About Me  
-- **Pronouns**: She/Her  
-- **Hobbies**: When I’m not coding, you’ll often find me exploring new tech trends, brainstorming project ideas, or diving into a good book. I also enjoy solving puzzles and challenges that sharpen my logical thinking.  
-- **Goals**: My ultimate goal is to contribute to the tech world meaningfully, whether it’s through building impactful applications or mentoring aspiring developers.  
-
-### 🚀 Let’s Build Something Awesome Together!  
-I strongly believe in the power of collaboration and the spirit of continuous learning. If you’re working on something exciting in Python, C, Web Development, or AIML, I’d love to hear about it and contribute!  
-
-Together, we can create innovative solutions, share knowledge, and inspire others in the tech community. Let’s connect and make the most of our shared passion for technology!  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
